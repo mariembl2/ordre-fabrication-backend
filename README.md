@@ -21,7 +21,7 @@ L’application se compose de deux parties :
 ## 🛠️ Technologies utilisées
 
 ### 🔷 Frontend (Angular)
-- **Angular** (v15 ou plus)
+- **Angular** 
 - **TypeScript**
 - **HTML / CSS**
 - **Angular CLI**
