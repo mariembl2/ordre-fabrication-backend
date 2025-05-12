@@ -33,7 +33,7 @@ L’application se compose de deux parties :
 - **Spring Web (REST)**
 - **Spring Data JPA**
 - **Hibernate**
-- **MySQL** 
+- **PhpMyAdmin** 
 - **Maven**
 
 
